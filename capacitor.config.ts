@@ -1,8 +1,8 @@
 import { CapacitorConfig } from '@capacitor/cli';
 
 const config: CapacitorConfig = {
-  appId: 'io.ionic.starter',
-  appName: 'notificaciones',
+  appId: 'app.anses.miapp.push',
+  appName: 'AnsesNoti',
   webDir: 'www',
   bundledWebRuntime: false
 };

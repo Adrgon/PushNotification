@@ -1,20 +1,12 @@
 <ion-header [translucent]="true">
   <ion-toolbar>
     <ion-title>
-      Blank
+      Mis Push Notification
     </ion-title>
   </ion-toolbar>
 </ion-header>
 
-<ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header>
-
-  <div id="container">
-    <strong>Ready to create an app?</strong>
-    <p>Start with Ionic <a target="_blank" rel="noopener noreferrer" href="https://ionicframework.com/docs/components">UI Components</a></p>
-  </div>
+<ion-content padding [fullscreen]="true">
+  <p style="padding:15px"><strong>Token ID: </strong>{{tokenID}}</p>
+  <ion-button expand="full" color="primary">Habilitar Notificaciones Push</ion-button>
 </ion-content>

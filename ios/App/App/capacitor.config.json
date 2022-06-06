@@ -1,0 +1,6 @@
+{
+	"appId": "app.anses.miapp.push",
+	"appName": "AnsesNoti",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}

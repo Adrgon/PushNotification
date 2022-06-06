@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "536828401173",
+    "project_id": "pushanses",
+    "storage_bucket": "pushanses.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536828401173:android:b6fe33dc99385d31ed201c",
+        "android_client_info": {
+          "package_name": "app.anses.miapp.push"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536828401173-67r1budufmjeu34ch07vur1gq1kv3nqv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEereaqVm7gGnVcUpM5Z9XIaJyIa8m8l8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536828401173-67r1budufmjeu34ch07vur1gq1kv3nqv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
